@@ -30,4 +30,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/ganeshkumaarb/leetcode-problems/tree/master/0160-intersection-of-two-linked-lists) |
+## String
+|  |
+| ------- |
+| [0006-zigzag-conversion](https://github.com/ganeshkumaarb/leetcode-problems/tree/master/0006-zigzag-conversion) |
 <!---LeetCode Topics End-->
