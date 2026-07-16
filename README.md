@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0234-palindrome-linked-list](https://github.com/ganeshkumaarb/leetcode-problems/tree/master/0234-palindrome-linked-list) |
 | [0647-palindromic-substrings](https://github.com/ganeshkumaarb/leetcode-problems/tree/master/0647-palindromic-substrings) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/ganeshkumaarb/leetcode-problems/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/ganeshkumaarb/leetcode-problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Stack
 |  |
 | ------- |
@@ -46,8 +47,25 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/ganeshkumaarb/leetcode-problems/tree/master/0503-next-greater-element-ii) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/ganeshkumaarb/leetcode-problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/ganeshkumaarb/leetcode-problems/tree/master/0503-next-greater-element-ii) |
+## Math
+|  |
+| ------- |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/ganeshkumaarb/leetcode-problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Sorting
+|  |
+| ------- |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/ganeshkumaarb/leetcode-problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Simulation
+|  |
+| ------- |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/ganeshkumaarb/leetcode-problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Number Theory
+|  |
+| ------- |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/ganeshkumaarb/leetcode-problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 <!---LeetCode Topics End-->
