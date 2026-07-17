@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/ganeshkumaarb/leetcode-problems/tree/master/0204-count-primes) |
 | [0229-majority-element-ii](https://github.com/ganeshkumaarb/leetcode-problems/tree/master/0229-majority-element-ii) |
 | [0503-next-greater-element-ii](https://github.com/ganeshkumaarb/leetcode-problems/tree/master/0503-next-greater-element-ii) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/ganeshkumaarb/leetcode-problems/tree/master/1863-sum-of-all-subset-xor-totals) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Math
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/ganeshkumaarb/leetcode-problems/tree/master/0204-count-primes) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/ganeshkumaarb/leetcode-problems/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ganeshkumaarb/leetcode-problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/ganeshkumaarb/leetcode-problems/tree/master/0204-count-primes) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ganeshkumaarb/leetcode-problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Backtracking
 |  |
@@ -88,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/ganeshkumaarb/leetcode-problems/tree/master/0204-count-primes) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/ganeshkumaarb/leetcode-problems/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Counting
 |  |
