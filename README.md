@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/ganeshkumaarb/leetcode-problems/tree/master/0503-next-greater-element-ii) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/ganeshkumaarb/leetcode-problems/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ganeshkumaarb/leetcode-problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Monotonic Stack
 |  |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Math
 |  |
 | ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/ganeshkumaarb/leetcode-problems/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ganeshkumaarb/leetcode-problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
 |  |
@@ -68,4 +70,20 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ganeshkumaarb/leetcode-problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Backtracking
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/ganeshkumaarb/leetcode-problems/tree/master/1863-sum-of-all-subset-xor-totals) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/ganeshkumaarb/leetcode-problems/tree/master/1863-sum-of-all-subset-xor-totals) |
+## Combinatorics
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/ganeshkumaarb/leetcode-problems/tree/master/1863-sum-of-all-subset-xor-totals) |
+## Enumeration
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/ganeshkumaarb/leetcode-problems/tree/master/1863-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
