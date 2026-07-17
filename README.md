@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/ganeshkumaarb/leetcode-problems/tree/master/0160-intersection-of-two-linked-lists) |
+| [0229-majority-element-ii](https://github.com/ganeshkumaarb/leetcode-problems/tree/master/0229-majority-element-ii) |
 ## String
 |  |
 | ------- |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/ganeshkumaarb/leetcode-problems/tree/master/0229-majority-element-ii) |
 | [0503-next-greater-element-ii](https://github.com/ganeshkumaarb/leetcode-problems/tree/master/0503-next-greater-element-ii) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/ganeshkumaarb/leetcode-problems/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ganeshkumaarb/leetcode-problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Sorting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/ganeshkumaarb/leetcode-problems/tree/master/0229-majority-element-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ganeshkumaarb/leetcode-problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
 |  |
@@ -86,4 +89,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/ganeshkumaarb/leetcode-problems/tree/master/1863-sum-of-all-subset-xor-totals) |
+## Counting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/ganeshkumaarb/leetcode-problems/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
